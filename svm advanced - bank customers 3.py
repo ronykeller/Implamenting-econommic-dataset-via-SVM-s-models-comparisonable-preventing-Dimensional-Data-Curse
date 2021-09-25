@@ -6,7 +6,7 @@ Created on Sat Sep 25 14:00:44 2021
 """
 
 """ 
-Here I take aneconomic data tabular clients bank to be inqueried as classification
+Here I take an an economic data tabular clients bank to be inqueried as classification
 by some types SVM models.
 """
 
